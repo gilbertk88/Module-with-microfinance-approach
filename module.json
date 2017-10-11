@@ -1,0 +1,11 @@
+{
+    "id": "accounting",
+    "name": "Accounting",
+    "description": "Accounting for  SACCO or user profiles.",
+    "keywords": ["accounting"],
+    "version": "0.0.1",
+    "humhub": {
+        "minVersion": "0.11.0"
+    },
+  
+}
